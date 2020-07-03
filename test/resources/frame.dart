@@ -12,7 +12,7 @@ import '../src/common.dart';
 const usage = 'usage: frame [-h] [-s <screenshot file> -d <device name>]';
 const sampleUsage = 'sample usage: frame -s screenshot.png -d \'Nexus 6P\'';
 
-const kFrameTestTmpDir = '/tmp/frame_test';
+const kFrameTestTmpDir = 'tmp/frame_test';
 const kRunMode = RunMode.normal;
 
 main(List<String> arguments) async {
