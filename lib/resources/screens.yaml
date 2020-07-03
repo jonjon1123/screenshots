@@ -112,7 +112,7 @@ android:
       statusbar white: resources/android/pixel_3/pixel3-status-bar.png
       navbar: resources/android/pixel_3/pixel3-nav-bar.png
       frame: resources/android/phones/Pixel_3.png
-    offset: -0-0
+    offset: -0-4
     destName: phone
     devices:
       - Pixel_3
