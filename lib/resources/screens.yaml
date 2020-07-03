@@ -103,6 +103,19 @@ ios:
     devices:
       - iPad Pro (12.9-inch) (3rd generation)
 android:
+  pixel_3:
+    size: 1080x1920
+    resize: 80%
+    resources:
+      statusbar: resources/android/pixel_3/pixel3-status-bar.png
+      statusbar black: resources/android/pixel_3/pixel3-status-bar.png
+      statusbar white: resources/android/pixel_3/pixel3-status-bar.png
+      navbar: resources/android/pixel_3/pixel3-nav-bar.png
+      frame: resources/android/phones/Pixel_3.png
+    offset: -4-9
+    destName: phone
+    devices:
+      - Pixel_3
   5.2inch:
     size: 1080x1920
     resize: 80%
